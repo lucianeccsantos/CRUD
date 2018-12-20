@@ -1,0 +1,8 @@
+C:\Users\Ewave\Desktop\Fabrica de Monstros\CRUD\CRUD.Dominio\obj\Debug\CRUD.Dominio.csprojAssemblyReference.cache
+C:\Users\Ewave\Desktop\Fabrica de Monstros\CRUD\CRUD.Dominio\obj\Debug\CRUD.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ewave\Desktop\Fabrica de Monstros\CRUD\CRUD.Dominio\bin\Debug\CRUD.Dominio.dll
+C:\Users\Ewave\Desktop\Fabrica de Monstros\CRUD\CRUD.Dominio\bin\Debug\CRUD.Dominio.pdb
+C:\Users\Ewave\Desktop\Fabrica de Monstros\CRUD\CRUD.Dominio\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Ewave\Desktop\Fabrica de Monstros\CRUD\CRUD.Dominio\obj\Debug\CRUD.Dominio.csproj.CopyComplete
+C:\Users\Ewave\Desktop\Fabrica de Monstros\CRUD\CRUD.Dominio\obj\Debug\CRUD.Dominio.dll
+C:\Users\Ewave\Desktop\Fabrica de Monstros\CRUD\CRUD.Dominio\obj\Debug\CRUD.Dominio.pdb
